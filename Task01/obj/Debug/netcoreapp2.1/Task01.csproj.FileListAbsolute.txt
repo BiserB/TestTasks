@@ -1,0 +1,11 @@
+D:\CSharp\InterviewTasks\Task01\bin\Debug\netcoreapp2.1\Task01.deps.json
+D:\CSharp\InterviewTasks\Task01\bin\Debug\netcoreapp2.1\Task01.runtimeconfig.json
+D:\CSharp\InterviewTasks\Task01\bin\Debug\netcoreapp2.1\Task01.runtimeconfig.dev.json
+D:\CSharp\InterviewTasks\Task01\bin\Debug\netcoreapp2.1\Task01.dll
+D:\CSharp\InterviewTasks\Task01\bin\Debug\netcoreapp2.1\Task01.pdb
+D:\CSharp\InterviewTasks\Task01\obj\Debug\netcoreapp2.1\Task01.csprojAssemblyReference.cache
+D:\CSharp\InterviewTasks\Task01\obj\Debug\netcoreapp2.1\Task01.csproj.CoreCompileInputs.cache
+D:\CSharp\InterviewTasks\Task01\obj\Debug\netcoreapp2.1\Task01.AssemblyInfoInputs.cache
+D:\CSharp\InterviewTasks\Task01\obj\Debug\netcoreapp2.1\Task01.AssemblyInfo.cs
+D:\CSharp\InterviewTasks\Task01\obj\Debug\netcoreapp2.1\Task01.dll
+D:\CSharp\InterviewTasks\Task01\obj\Debug\netcoreapp2.1\Task01.pdb

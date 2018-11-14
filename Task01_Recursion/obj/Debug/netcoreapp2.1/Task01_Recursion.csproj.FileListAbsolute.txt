@@ -1,0 +1,11 @@
+D:\CSharp\InterviewTasks\Task01_Recursion\bin\Debug\netcoreapp2.1\Task01_Recursion.deps.json
+D:\CSharp\InterviewTasks\Task01_Recursion\bin\Debug\netcoreapp2.1\Task01_Recursion.runtimeconfig.json
+D:\CSharp\InterviewTasks\Task01_Recursion\bin\Debug\netcoreapp2.1\Task01_Recursion.runtimeconfig.dev.json
+D:\CSharp\InterviewTasks\Task01_Recursion\bin\Debug\netcoreapp2.1\Task01_Recursion.dll
+D:\CSharp\InterviewTasks\Task01_Recursion\bin\Debug\netcoreapp2.1\Task01_Recursion.pdb
+D:\CSharp\InterviewTasks\Task01_Recursion\obj\Debug\netcoreapp2.1\Task01_Recursion.csprojAssemblyReference.cache
+D:\CSharp\InterviewTasks\Task01_Recursion\obj\Debug\netcoreapp2.1\Task01_Recursion.csproj.CoreCompileInputs.cache
+D:\CSharp\InterviewTasks\Task01_Recursion\obj\Debug\netcoreapp2.1\Task01_Recursion.AssemblyInfoInputs.cache
+D:\CSharp\InterviewTasks\Task01_Recursion\obj\Debug\netcoreapp2.1\Task01_Recursion.AssemblyInfo.cs
+D:\CSharp\InterviewTasks\Task01_Recursion\obj\Debug\netcoreapp2.1\Task01_Recursion.dll
+D:\CSharp\InterviewTasks\Task01_Recursion\obj\Debug\netcoreapp2.1\Task01_Recursion.pdb
